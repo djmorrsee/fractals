@@ -1,3 +1,10 @@
 html, body {
 	font-family:Sans-Serif;
 }
+
+#main-body {
+	background-color:#ddd;
+}
+
+#main-content {
+}
