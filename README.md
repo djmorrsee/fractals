@@ -1,8 +1,4 @@
-html_template
-=============
+fractals
+========
 
-A Template for Fast HTML 5 Deployment
-
-
-Will compile an aggregation of libraries/framework links such as
-Bootstrap, Pure, JQPlot, etc.
+A small project utilizing the html canvas and fractals
