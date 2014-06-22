@@ -1,4 +1,5 @@
 fractals
 ========
+A small python project demonstrating various fractal algorithms. 
 
-A small project utilizing the html canvas and fractals
+
